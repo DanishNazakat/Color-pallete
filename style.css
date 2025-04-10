@@ -1,0 +1,62 @@
+
+h1{
+    text-align: center;
+    color: rgb(255, 150, 194);
+}
+.main{
+    height: 500px;
+    width: 1000px;
+
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.div{
+    width:70px;
+    height: 500px;
+}
+.div1  {
+ 
+    background-color:rgb(92, 37, 118);
+}
+.div2{
+    background-color:rgb(112, 46, 117);
+}
+.div3{
+    background-color: rgb(138, 58, 117);
+}
+.div4{
+    background-color: rgb(163, 72, 116);
+}
+.div5{
+    background-color:rgb(187, 83, 116);
+}
+.div6{
+    background-color: rgb(211, 95, 116);
+}
+.div7{
+    background-color: rgb(234, 107, 116);
+}
+.div8{
+    background-color: rgb(237, 124, 116);
+}
+.div9{
+    background-color: rgb(241, 141, 115);
+}
+.div10{
+    background-color: rgb(246, 157, 113);
+}
+.div11{
+    background-color:rgb(249, 175, 114) ;
+}
+.div12{
+    background-color: rgb(253, 190, 113);
+}
+.div13{
+    background-color: rgb(255, 204, 141);
+}
+.div14{
+    background-color: rgb(255, 224, 186);
+}
